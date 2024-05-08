@@ -1,46 +1,46 @@
-# Getting Started with Create React App
+Project Overview:
+The website serves as a platform to market staff augmentation services to various companies, with a primary focus on targeting unicorns. The key emphasis lies in presenting a high-quality user experience, both in terms of aesthetics and functionality.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Design Implementation:
+I have faithfully implemented the layout and design provided in the Figma link, ensuring pixel perfection in development. The navigation, hover effects, and transitions have been implemented as indicated in the design specifications.
 
-## Available Scripts
+Component Structure and Code Quality:
+A modular and reusable component structure has been created, ensuring code readability, maintainability, and adherence to React best practices. Proper use of React hooks, state management, and effective handling of props and state have been ensured throughout the development process.
 
-In the project directory, you can run:
+Evaluation Parameters:
+- Coding Best Practices of React JS
+- Pixel Perfection in Development
+- Transition and Hover Effects
 
-### `npm start`
+Technologies Used:
+- TypeScript
+- React JS
+- Tailwind CSS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Deliverables:
+- Completed React JS project including all source code files, components, stylesheets, and necessary assets.
+- The project is structured and organized following best practices.
+- Clear instructions are provided on how to run the project locally.
+- Demo URL hosted on Vercel: [Thence Project Demo](https://thenceproject.vercel.app/)
+- GitHub link: [Thence Project GitHub Repository](https://github.com/Gauravdewli/thenceproject)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Instructions for Running the Project Locally:
+1. Clone the GitHub repository using the following command:
+   ```
+   git clone https://github.com/Gauravdewli/thenceproject.git
+   ```
+2. Navigate into the project directory:
+   ```
+   cd thenceproject
+   ```
+3. Install dependencies:
+   ```
+   npm install
+   ```
+4. Start the development server:
+   ```
+   npm start
+   ```
+5. Open your browser and visit http://localhost:3000 to view the project.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feel free to explore the project and provide any feedback. Thank you for your interest!
